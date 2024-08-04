@@ -1,0 +1,21 @@
+<Configuration id="{4458CFAD-8119-4881-9A18-E8B5FFD57CA8}">
+  <entry key="txtImageDownscaleColor" value="1"/>
+  <entry key="txtMethod" value="Linear"/>
+  <entry key="MvsIgnoreCorrectColors" value="false"/>
+  <entry key="txtFillInUncoloredParts" value="false"/>
+  <entry key="unwrapGutter" value="2"/>
+  <entry key="MvsDoCorrectColors" value="false"/>
+  <entry key="txtRecolorAfterTexturing" value="true"/>
+  <entry key="unwrapStyle" value="MaxTexturesCount"/>
+  <entry key="unwrapMaximalTexCount" value="0x1"/>
+  <entry key="colStyle" value="PhotoConsistencyBased"/>
+  <entry key="MvsGeometryTexturingDoHdr" value="true"/>
+  <entry key="txtFillInUntexturedParts" value="false"/>
+  <entry key="txtImageDownscaleTexture" value="1"/>
+  <entry key="txtStyle" value="PhotoConsistencyBased"/>
+  <entry key="ImageLayerForColoring" value="4096"/>
+  <entry key="ImageLayerForTexturing" value="4096"/>
+  <entry key="txtImportDefaultTexResolution" value="8192"/>
+  <entry key="unwrapMaxTexResolution" value="8192"/>
+  <entry key="unwrapLargeTriangleRemovalThr" value="10"/>
+</Configuration>
